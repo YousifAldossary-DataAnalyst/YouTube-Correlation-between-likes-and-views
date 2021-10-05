@@ -16,12 +16,12 @@ Python jupyter: numpy seaborn, panda, matplot, and matplot.pyplot
 
 Object based considerations
 -Attributes:
-  -video_id 
-  -views
-  -likes
+  - video_id 
+  - views
+  - likes
   - dislikes
   - comment_count
   
--methods:
-    - Finding Correlations.
-    - Build Visuals
+-Methods:
+  - Finding Correlations.
+  - Build Visuals
